@@ -1,10 +1,10 @@
 {
   "id": 1,
-  "firstName": "Emily",
-  "lastName": "Johnson",
+  "firstName": "Damián",
+  "lastName": "Borda",
   "maidenName": "Smith",
   "age": 28,
-  "gender": "female",
+  "gender": "male",
   "email": "emily.johnson@x.dummyjson.com",
   "phone": "+81 965-431-3024",
   "username": "emilys",
