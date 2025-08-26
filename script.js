@@ -15,7 +15,7 @@ const colores = [
 // ========== FUNCIONES PARA TRABAJAR CON LA API ==========
 
 // Variable con el endpoint de la API - aquí defines qué usuario quieres obtener
-const endpoint = 'https://dummyjson.com/users/1';
+const endpoint = 'https://dummyjson.com/users/5';
 
 // Función simple para hacer fetch a la API (sin control de errores para simplicidad)
 function obtenerDatosUsuario() {
